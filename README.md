@@ -39,7 +39,7 @@ Na versão atual desse projeto, alguns requisitos são necessários para a aplic
 
 ```bash
 1. Clone o repositório através de um terminal:
-git clone
+git clone https://github.com/GuilhermeVaiano/jogoDaVelhaRanqueado.git
 
 ```
 
