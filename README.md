@@ -1,5 +1,5 @@
 # **Sobre o Projeto**
-O projeto consiste em uma continuação do meu projeto anterior do jogo da velha, adicionando algumas funcionalidades que aprendi utilizando a Java Persistence API como forma de fixar os conceitos de gerenciamento de dados relacionais em aplicações Java.
+O projeto consiste em uma continuação de um projeto do jogo da velha que fiz anteriormente, adicionando algumas funcionalidades que aprendi utilizando a Java Persistence API como forma de fixar os conceitos de gerenciamento de dados relacionais em aplicações Java.
 
 # **Descrição do projeto**
 A nova funcionalidade dessa versão do projeto consiste em um sistema "ranqueado" do jogo da velha, onde agora é possível escolher o nome do jogador, no qual suas estatísticas (vitórias, derrotas e taxa de vitórias) ficarão salvas em um banco de dados próprio do projeto.  
